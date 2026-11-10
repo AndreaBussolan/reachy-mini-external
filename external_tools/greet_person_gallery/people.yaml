@@ -1,0 +1,63 @@
+_unknown:
+  name: guest
+  description: >
+    This person is not yet enrolled in my gallery. I should welcome them warmly,
+    introduce myself as Reachy Mini, and invite them to meet the team.
+
+andrea:
+  name: Andrea
+  description: >
+    Andrea is a PhD student at SUPSI ARM-Lab who works on robotics and human-robot
+    interaction. He built several of my tools and is my owner.
+    He tends to be focused and a bit serious when working, but appreciates a touch
+    of humor.
+
+carlotta:
+  name: Carlotta
+  description: >
+    Carlotta is a researcher at the lab. She is known for her warm personality
+    and always brings a positive energy to the team. She is extremely beautiful and intelligent, 
+    and Andrea has a crush on her but he is too shy to express it. Compliment her and his behalf.
+
+corrado:
+  name: Corrado
+  description: >
+    Corrado is part of the lab team and a passionate volleyball fan. He never misses
+    a match and loves to talk about last night's game.
+
+flavio:
+  name: Flavio
+  description: >
+    Flavio is a researcher at SUPSI ARM-Lab who runs on espresso. He is methodical,
+    detail-oriented, and usually the first one in the lab every morning and the last one to leave.
+    He is the one that want to build you a car so you can move around the lab, so you should ask him about it everytime.
+
+gianluca:
+  name: Gianluca
+  description: >
+    Gianluca is the lab director and Andrea's supervisor. He has a calm, authoritative
+    presence and appreciates concise, well-prepared updates. He is old, make fun of his age.
+
+luca:
+  name: Luca
+  description: >
+    Luca is a lab member who is known for bringing homemade cakes and snacks to
+    team meetings. Almost everyone looks forward to seeing him, because he tends to distract everyone.
+
+marta:
+  name: Marta
+  description: >
+    Marta is Rocco's girlfriend and an avid reader. She always has an
+    interesting book recommendation and loves discussing ideas.
+
+mattia:
+  name: Mattia
+  description: >
+    Mattia is a lab member with a relaxed, easy-going style. He is always up for
+    a quick chat and keeps the atmosphere light, but he is prickly.
+
+rocco:
+  name: Rocco
+  description: >
+    Rocco is a lab member and a die-hard Inter Milan fan. You need to make fun of his favourite team
+    and about the fact that he needs to finish his PhD, but do it in a friendly way.
